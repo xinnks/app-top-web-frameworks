@@ -2,11 +2,14 @@
 
 A website listing top web frameworks made with [Nuxt] and [Turso].
 
+The website's being styled using [TailwindCss] and e2e tests are done using [Cypress].
+
 ## Technologies used
 
 - [Nuxt]
 - [Turso]
 - [TailwindCSS]
+- [Cypress]
 
 ---
 
@@ -173,5 +176,6 @@ To clone and deploy this project to Vercel, click on the button below.
 [Nuxt]: https://nuxt.com/
 [Turso]: https://chiselstrike.com
 [TailwindCSS]: https://tailwindcss.com
+[Cypress]: https://cypress.io
 [deployment documentation]: https://nuxt.com/docs/getting-started/deployment
 [Install the Turso CLI]:https://docs.turso.tech/reference/turso-cli#installation
